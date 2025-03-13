@@ -12,7 +12,7 @@ The **Password Manager App** is a secure and user-friendly application designed 
 
 ## 🛠 Installation
 1. **Download the executable:**  
-   - [Click here to download](#) or locate `app.exe` in the provided package.  
+   - [Click here to download](https://drive.google.com/file/d/1TExwLkgQKN2PvG1EIrpLLuwTpVfftgsd/view?usp=sharing) or locate `app.exe` in the provided package.  
 2. **Run the Application:**  
    - Double-click `app.exe` to launch the password manager.  
 3. **Follow On-Screen Instructions:**  
